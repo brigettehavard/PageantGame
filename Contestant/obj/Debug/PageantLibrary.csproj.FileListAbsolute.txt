@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\obj\Debug\PageantLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\obj\Debug\PageantLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\bin\Debug\PageantLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\bin\Debug\PageantLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\obj\Debug\PageantLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02-CSF2\CSF2\PageantGame\Contestant\obj\Debug\PageantLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\bin\Debug\PageantLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\bin\Debug\PageantLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\obj\Debug\PageantLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\obj\Debug\PageantLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\obj\Debug\PageantLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\PageantGame\Contestant\obj\Debug\PageantLibrary.pdb
